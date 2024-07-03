@@ -27,7 +27,7 @@ This advanced network monitoring and DDoS protection tool is designed to provide
     - `python3 main.py`
 
 4. Configuration:
-    - `Configure the `config.json` file (see Configuration section below)`
+    - `Configure the config.json file (see Configuration section below)`
 
 
 ## Configuration
