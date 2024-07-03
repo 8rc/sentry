@@ -18,13 +18,16 @@ This advanced network monitoring and DDoS protection tool is designed to provide
 ## Installation
 
 1. Clone this repository:
-    - git clone https://github.com/8rc/sentry (PYTHON 3.10 IS RECCOMENDED)
+    - `git clone https://github.com/8rc/sentry (PYTHON 3.10 IS RECCOMENDED)`
+
 2. Install the required dependencies:
-    - pip install -r requirements.txt
+    - `pip install -r requirements.txt`
+
 3. Run the script:
-    - python3 main.py
+    - `python3 main.py`
+
 4. Configuration:
-    - Configure the `config.json` file (see Configuration section below)
+    - `Configure the `config.json` file (see Configuration section below)`
 
 
 ## Configuration
