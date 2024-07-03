@@ -1,0 +1,12 @@
+logging
+rich
+requests
+datetime
+psutil
+scapy
+json
+subprocess
+shlex
+discord
+copy
+typing
