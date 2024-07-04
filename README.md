@@ -101,7 +101,3 @@ The `config.json` file allows you to customize various aspects of the tool. Here
 4. The protection system applies rate limiting rules using iptables, with three levels of increasing strictness. After the attack has ended the rate limiting rules are deleted.
 5. Attack statistics are logged and can be sent via Discord webhook.
 6. PCAP files can be generated for further analysis of attack patterns.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. Sentry is still in beta, if you have questions, concerns or bugs let me know.
