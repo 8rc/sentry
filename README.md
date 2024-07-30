@@ -15,6 +15,10 @@ This advanced network monitoring and DDoS protection tool is designed to provide
 * Discord webhook integration for instant notifications
 * Customizable display options for system dashboard
 
+## UPDATE-1
+* added **option** "send_pcap", options: true or false | decides whether or not you want to send pcaps in the attack alert embed
+* added **type** "type", options: alert or descriptive | alert is for people who want to show network statistics, descriptive is for people who want to show everything. (if you want to show custom things, set it to descriptive and change the values.)
+
 ## Installation
 
 1. Clone this repository:

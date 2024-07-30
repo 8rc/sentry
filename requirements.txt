@@ -1,4 +1,3 @@
-logging
 rich
 requests
 datetime
